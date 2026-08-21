@@ -130,22 +130,3 @@ and secure access management.
 ### Thanks for visiting my profile ⭐
 
 </div>
-
-## دو مورد را حتماً تغییر بده
-
-در دو قسمت زیر، ایمیل واقعی خودت را جایگزین کن:
-
-html
-YOUR_EMAIL@example.com
-
-همچنین اگر لینک دقیق LinkedIn خودت را داری، می‌توانی این بخش را هم به قسمت Contact اضافه کنی:
-
-html
-<a href="YOUR_LINKEDIN_URL">
-  <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat-square&logo=linkedin&logoColor=white">
-</a>
-
-نکته: برای فعال شدن این معرفی در پروفایل، نام Repository باید **دقیقاً برابر با Username** باشد؛ یعنی:
-
-text
-amirhosseinbahar
